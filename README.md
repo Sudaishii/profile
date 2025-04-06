@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Rasheed and I'm a Filipino Developer</h2>
+<h2 align="center">Hi 👋! My name is Rasheed</h2>
 
 ###
 
